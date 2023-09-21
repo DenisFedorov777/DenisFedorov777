@@ -2,17 +2,37 @@
 ### Hi there 👋 I'm Denis - beginner Java developer.
 ### My contact Telegram: t.me/Fedorov_Denis89
 
-<!--
-**DenisFedorov777/DenisFedorov777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Описание](https://github.com/sigmaclap/sigmaclap/blob/main/header.png?raw=true)
+## My stack
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+## Tools
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+I like Java and SQL.
+
+| 💻 **Technology** | 🚀 **Projects** |
+| - | - |
+| Java 11 (Core, Stream), Spring Boot, Hibernate, PostgreSQL, Maven, Lombok, Junit5, Mockito, Postman, Docker| [![Explore-With-Me](https://img.shields.io/static/v1?label=&message=Explore-With-Me&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/DenisFedorov777/java-explore-with-me) |
+| Spring, MVN, SQL, PostgreSQL, ORM Hibernate JPA, MockMvc, Docker, H2 SQL, REST | [![Shareit](https://img.shields.io/static/v1?label=&message=ShareIt&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/DenisFedorov777/java-shareit) |
+| "*Групповая разработка - участие в роли Тим-лида*" Spring Boot, MVN, SQL, H2, JDBC, REST | [![Filmorate](https://img.shields.io/static/v1?label=&message=Filmorate&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/DenisFedorov777/java-filmorate) |
+| HTTP, JSON, Java Core, Unit-тесты Rest-Client, KVServer | [![Kanban](https://img.shields.io/static/v1?label=&message=Kanban&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/DenisFedorov777/java-kanban) |
+
+| <a href="https://github.com/DenisFedorov777/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sigmaclap&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Sigmaclap's github stats" /></a> |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisFedorov777&layout=compact&theme=dracula)](https://github.com/DenisFedorov777/github-readme-stats) |
+| ------------- | ------------- |
+
+## Contact me
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Fedorov_Denis89) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vet63@bk.ru)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/DenisFedorov777/)
+
+![](https://komarev.com/ghpvc/?username=DenisFedorov777)
