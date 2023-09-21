@@ -28,7 +28,7 @@ I like Java and SQL.
 
 ## Contact me
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Fedorov_Denis89) 
-[![Mail](https://mail.ru/)](mailto:vet63@bk.ru)
+[![Mail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=Mail&logoColor=blue)](mailto:vet63@bk.ru)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/DenisFedorov777/)
 
 ![](https://komarev.com/ghpvc/?username=DenisFedorov777)
