@@ -17,7 +17,7 @@
 
 ## About me
 ### Hi there 👋 I'm Denis - beginner Java developer.
-I like Java and SQL.
+### I like Java and SQL.
 
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
